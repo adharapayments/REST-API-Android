@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.PopTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+    <style name="AppTheme.TradeTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <!--<item name="android:windowCloseOnTouchOutside">true</item>-->
+    </style>
+
+    <style name="AppTheme.SettingsTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <!--<item name="android:windowCloseOnTouchOutside">true</item>-->
+    </style>
+
+    <style name="AppTheme.EquityTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+    <style name="AppTheme.OrderInfoTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+</resources>
