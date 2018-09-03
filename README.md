@@ -1,5 +1,5 @@
 # REST API Android demonstrator
-This sample App for Android demonstrates the use of Arthika's REST API.
+This sample App for Android demonstrates the use of Adhara's REST API.
 ##### Table of Contents 
 
 [Screenshots](#Screenshots)   
@@ -55,9 +55,9 @@ You will need Android Studio at least 1.3.2 version, you can download these from
 ##### 2) Open the project in Android Studio
 You have two options:
 
-2.a) Open the project into Android Studio (File -> Open -> Select ArthikaHFT folder)
+2.a) Open the project into Android Studio (File -> Open -> Select AdharaHFT folder)
 
-2.b) Select "Open an existing Android Studio Project" in Android Studio launcher menu, then select ArthikaHFT folder.
+2.b) Select "Open an existing Android Studio Project" in Android Studio launcher menu, then select AdharaHFT folder.
 
 #### 3) Run in Android Studio Emulator
 
